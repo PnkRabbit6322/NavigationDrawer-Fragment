@@ -14,7 +14,7 @@ import androidx.fragment.app.Fragment;
 import com.example.navigationdrawer_fragment_program.R;
 import com.example.navigationdrawer_fragment_program.databinding.FragmentGalleryBinding;
 
-public class GalleryFragment extends Fragment {
+public class CalculatorFragment extends Fragment {
 
     private FragmentGalleryBinding binding;
 

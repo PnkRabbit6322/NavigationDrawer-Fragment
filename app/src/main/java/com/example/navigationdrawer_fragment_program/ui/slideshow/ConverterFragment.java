@@ -17,7 +17,7 @@ import androidx.fragment.app.Fragment;
 import com.example.navigationdrawer_fragment_program.R;
 import com.example.navigationdrawer_fragment_program.databinding.FragmentSlideshowBinding;
 
-public class SlideshowFragment extends Fragment implements AdapterView.OnItemSelectedListener {
+public class ConverterFragment extends Fragment implements AdapterView.OnItemSelectedListener {
 
     private FragmentSlideshowBinding binding;
 
